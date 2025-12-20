@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on Deep Reinforcement Learning, NLP, Knowledge Graph applications
-- 🌱 I’m currently learning Generative AI, MLOP, and security in ML solutions
+- 🌱 I’m currently learning Generative AI, MLOP, RAG systems and security in ML solutions
 - 👯 I’m looking to collaborate on Knowledge graph visualization
 - 💬 Ask me about anything related to Deep RL, NLP, Knowledge graphs
 - 📫 How to reach me: hfares9119@gmail.com
